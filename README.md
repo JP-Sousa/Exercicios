@@ -1,2 +1,2 @@
 # Exercicios
-Exercícios de programação para exercitar a lógica de programação, algoritmo, raciocinio etc.
+Exercícios de programação em C para exercitar a lógica de programação, algoritmo, raciocinio etc.
